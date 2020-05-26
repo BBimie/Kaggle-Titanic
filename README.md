@@ -1,2 +1,2 @@
 # Kaggle-Titanic
-This repository contains the jupyter notebook for the titanic prediction project on kaggle
+This repository contains the jupyter notebook for the kaggle Machine Learning Titanic Prediction Project
